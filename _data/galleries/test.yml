@@ -1,0 +1,36 @@
+picture_path: test
+preview:
+  filename: img1
+  original: img1.jpg
+  sizes:
+  - img1.jpg
+  thumbnail: img1.jpg
+pictures:
+- filename: img1
+  original: img1.jpg
+  sizes:
+  - img1.jpg
+  - img1.jpg
+  - img1.jpg
+  thumbnail: img1.jpg
+- filename: img2
+  original: img2.jpg
+  sizes:
+  - img2.jpg
+  - img2.jpg
+  - img2.jpg
+  thumbnail: img2.jpg
+- filename: img3
+  original: img3.jpg
+  sizes:
+  - img3.jpg
+  - img3.jpg
+  - img3.jpg
+  thumbnail: img3.jpg
+- filename: img4
+  original: img4.jpg
+  sizes:
+  - img4.jpg
+  - img4.jpg
+  - img4.jpg
+  thumbnail: img4.jpg
