@@ -4,6 +4,8 @@ preview:
   original: img1.jpg
   sizes:
   - img1.jpg
+  - img1.jpg
+  - img1.jpg
   thumbnail: img1.jpg
 pictures:
 - filename: img1
