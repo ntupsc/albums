@@ -21,3 +21,12 @@
   - Lichtfestival-0058-2999x1999.jpg
   - Lichtfestival-0058-4242x2828.jpg
   thumbnail: Lichtfestival-0058-thumbnail.jpg
+-
+ title: An example gallery
+ directory: test
+ preview:
+  filename: img1
+  original: img1.jpg
+  sizes:
+  - img1.jpg
+  thumbnail: img1.jpg
