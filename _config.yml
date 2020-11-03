@@ -6,15 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Adding a Gallery to Jekyll
-email: your-email@domain.com
+title: PSC.NTU Albums
+email: psc@ntu.edu.tw
 description: > # this means to ignore newlines until "baseurl:"
-  This website is an example on how to use my gallery blog post to add a
-  photo gallery to your blog/website.
-baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
+  This website (forked from opieters) hosts activity albums of NTUPSC.
+baseurl: "/albums" # the subpath of your site, e.g. /blog
 url: "//ntupsc.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ntupsc
+github_username:  ntupsc
 
 # Build settings
 markdown: kramdown
